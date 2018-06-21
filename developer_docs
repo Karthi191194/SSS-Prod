@@ -1,0 +1,11 @@
+/*root admin*/
+Username: admin
+Passord: karthi191194
+
+/*user*/
+Username: SSS
+Passord: SSS
+
+
+**************************
+added ob_start() to wp-config for unable to stream pdf issue.
